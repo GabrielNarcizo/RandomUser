@@ -14,3 +14,5 @@ _As informações dos usuários devem conter, pelo menos:_
 
 **Ferramenta** 🔧
 - Node.js
+- Express
+- Faker
