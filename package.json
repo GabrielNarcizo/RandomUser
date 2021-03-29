@@ -1,0 +1,24 @@
+{
+  "name": "randomuser",
+  "version": "1.0.0",
+  "description": "API que retorna usuários aleatórios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielNarcizo/RandomUser.git"
+  },
+  "author": "Gabriel Narcizo e Carlos Trajano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielNarcizo/RandomUser/issues"
+  },
+  "homepage": "https://github.com/GabrielNarcizo/RandomUser#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "faker": "^5.5.1"
+  }
+}
