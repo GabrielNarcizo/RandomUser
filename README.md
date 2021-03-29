@@ -16,3 +16,7 @@ _As informações dos usuários devem conter, pelo menos:_
 - Node.js
 - Express
 - Faker
+
+**Desenvolvedores**
+- Carlos Trajano
+- Eli Gabriel Narcizo
